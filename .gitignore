@@ -5,5 +5,11 @@
 .project
 .settings
 /target
-/tool/*.iml
-/tool/target
+/psych-data/*.iml
+/psych-data/target
+/psych-service/*.iml
+/psych-service/target
+/psych-task/*.iml
+/psych-task/target
+/psych-api/*.iml
+/psych-api/target

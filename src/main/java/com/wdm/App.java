@@ -1,8 +1,7 @@
 package com.wdm;
 
 /**
- * Hello world!
- *
+ * @author wdmyong
  */
 public class App 
 {
